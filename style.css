@@ -1,0 +1,76 @@
+#foto {
+  width: 100%;
+  height: 80vh;
+  object-fit: cover;
+  margin-top: 20px;
+  margin-bottom: 20px;;
+  line-height: 1.5;
+
+}
+
+.fredericka-the-great-regular {
+  font-family: "Fredericka the Great", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  background-color:rgb(203, 235, 255)
+}
+
+header {
+  background-color: hwb(44 2% 85%);
+
+}
+
+h1 {
+  margin-left: 100px;
+  margin-bottom: 3px;
+  text-align: center;
+  font-family: "Fredericka the Great", serif;
+  color: #ffffff;
+  line-height: 1.5;
+  font-size: 55px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  height: 100vh;
+}
+
+button {
+  width: 200px;
+  height: 50px;
+  font-size: 24px;
+  margin: auto;
+  background-color: rgb(60, 39, 11);
+  color: #ffffff;
+  font-family: "Fredericka the Great", serif;
+  justify-content: center;
+}
+
+button:hover {
+  color: #ffffff; 
+  background-color: #073208; 
+}
+
+.roze {
+  background-color: #ff0000;
+  color: #ffffff;
+}
+
+div button {
+ justify-content: center;
+ display:inline;
+ margin-left: 105px;
+ margin-right: 10px;
+}
+
+video {
+  width: 100%;
+  height: 80vh;
+  object-fit: cover;
+  margin-top: 20px;
+}
